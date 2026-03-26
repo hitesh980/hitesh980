@@ -98,4 +98,4 @@ MLOps & Model Deployment  [======              ] Learning
 ---
 
 <p align="center">Open to roles across the full data spectrum: Fraud Analytics | Data Engineering | Data Science | ML Engineering | MLOps</p>
-<p align="center">Highland Acres, Delaware, USA | Open to Remote</p>
+<p align="center">Jersey city,NJ USA | Open to Remote in USA and Europe</p>
