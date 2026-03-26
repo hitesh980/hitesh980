@@ -11,7 +11,7 @@
 
 ## About Me
 
-- 5+ years in **Fraud Risk & Payment Analytics** (Chargebacks, Transaction Monitoring, Rules Engines)
+- 5+ years in **Fraud Risk & Payment Analytics At AMAZON** (Chargebacks, Transaction Monitoring, Rules Engines)
 - Strong foundation in **Data Science**: EDA, Feature Engineering, Classification, Regression, Ensemble & Non-Ensemble ML
 - Actively building **Data Engineering** skills: PySpark, ETL Pipelines, AWS (S3, EMR, Redshift), Snowflake
 - Currently exploring **NLP & LLMs**: text classification, transformers, prompt engineering for fraud/risk use cases
