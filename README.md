@@ -3,7 +3,7 @@
 <h4 align="center">Navigating the full data spectrum: from Fraud Detection and ML to Data Engineering, NLP, LLMs & MLOps</h4>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hitesh-sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/a-hitesh-sharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=hitesh980&style=for-the-badge&color=0e75b6"/>
 </p>
 
